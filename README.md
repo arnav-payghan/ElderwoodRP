@@ -1,3 +1,3 @@
 # Elderwood Resource Pack 🎍
 
-![Elderwood](/banner.png)
+![Elderwood](/public/banner.png)
