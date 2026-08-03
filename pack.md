@@ -1,0 +1,1 @@
+[Rename this to pack.png (must be an image) to add a cover image for the resource pack]
