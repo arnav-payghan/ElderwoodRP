@@ -1,3 +1,5 @@
 # Elderwood Resource Pack 🎍
 
-![Elderwood](/public/banner.png)
+<p align="center">
+  <img src="public/banner.png" alt="Banner" width="100%">
+</p>
